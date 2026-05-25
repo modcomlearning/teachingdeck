@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE = process.env.REACT_APP_API_URL || "https://coding.co.ke/teachingdesk/api";
+const BASE =  "https://coding.co.ke/teachingdesk/api";
 
 const api = axios.create({
   baseURL: BASE,

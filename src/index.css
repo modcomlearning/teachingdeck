@@ -239,7 +239,7 @@ textarea.input { resize: vertical; min-height: 80px; }
 .sidebar-logo {
   padding: 20px 20px 12px;
   font-family: var(--font-head);
-  font-size: 19px;
+  font-size: 22px;
   color: var(--text);
   border-bottom: 1px solid var(--border);
   letter-spacing: -.01em;

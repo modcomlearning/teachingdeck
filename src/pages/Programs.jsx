@@ -27,7 +27,7 @@ export default function Programs() {
     <div>
       <div className="page-header">
         <div>
-          <h1 className="page-title">Which program are you Teaching?</h1>
+          <h1 className="page-title">Which program are you teaching?</h1>
           <p className="page-subtitle">{programs.length} programs available — click one to explore its modules</p>
         </div>
         <input

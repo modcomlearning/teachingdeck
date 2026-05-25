@@ -40,9 +40,9 @@ export default function Login() {
           <div style={{ fontFamily: "var(--font-head)", fontSize: 40, color: "var(--text)", lineHeight: 1.1 }}>
             Teaching<span style={{ color: "var(--accent)" }}>Desk</span>
           </div>
-
+          
           <h2>Modcom Institute of Technology</h2>
-
+          
           <p style={{ color: "var(--text2)", marginTop: 8, fontSize: 14 }}>
             Instructor learning materials platform
           </p>
